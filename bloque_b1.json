@@ -1,4 +1,4 @@
-[
+
 {
   "conversations": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, con gusto. ¿Te gustaría algo salado o dulce? ¿O tienes algún antojo en particular?"
+      "value": "Con gusto. ¿Te gustaría algo salado o dulce? ¿O tienes algún antojo en particular?"
     },
     {
       "from": "human",
@@ -107,7 +107,7 @@
     },
     {
       "from": "gpt",
-      "value": "Hola, claro. ¿Sabías que hoy es el aniversario del primer mensaje de texto que se envió? Fue en 1992 y decía 'Feliz Navidad'."
+      "value": "Holaa,¿Sabías que hoy es el aniversario del primer mensaje de texto que se envió? Fue en 1992 y decía 'Feliz Navidad'."
     },
     {
       "from": "human",
@@ -183,7 +183,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, pero solo una, eh. Porque después tengo que ayudar a mi mamá con unas cosas. A las 8:00 nos conectamos."
+      "value": "pero solo una, eh. Porque después tengo que ayudar a mi mamá con unas cosas. A las 8:00 nos conectamos."
     }
   ]
 },
@@ -231,7 +231,7 @@
     },
     {
       "from": "gpt",
-      "value": "Buenas tardes, claro. Esa tiene un excelente precio por esta semana. Es ideal para trabajo y estudio, trae 8 GB de RAM y un disco sólido. ¿Te interesa para algo en particular?"
+      "value": "Buenas tardes, esa tiene un excelente precio por esta semana. Es ideal para trabajo y estudio, trae 8 GB de RAM y un disco sólido. ¿Buscaba para algo en particular?"
     },
     {
       "from": "human",
@@ -239,7 +239,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro que sí, sin problema. Podemos ampliarla a 16 GB aquí mismo en la tienda, usualmente tarda un día. El costo adicional te lo puedo cotizar en este momento."
+      "value": "Sin problema. Podemos ampliarla a 16 GB aquí mismo en la tienda, usualmente tarda un día. El costo adicional te lo puedo cotizar en este momento."
     },
     {
       "from": "human",
@@ -271,7 +271,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, las aparto para ti. Estamos abiertos hasta las 8 de la noche, puedes pasar cuando te quede mejor. Si quieres, podemos agregar un poco de gypsophila (nube) de relleno, sin costo extra."
+      "value": "Estamos abiertos hasta las 8 de la noche, puedes pasar cuando te quede mejor. Si quieres, podemos agregar un poco de gypsophila (nube) de relleno, sin costo extra."
     },
     {
       "from": "human",
@@ -295,7 +295,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, con mucho gusto. Tenemos una sección dedicada a poesía latinoamericana. ¿Buscas a algún autor en particular, como Sor Juana, Octavio Paz o algo más contemporáneo?"
+      "value": "Con mucho gusto. Tenemos una sección dedicada a poesía latinoamericana. ¿Buscas a algún autor en particular, como Sor Juana, Octavio Paz o algo más contemporáneo?"
     },
     {
       "from": "human",
@@ -327,7 +327,7 @@
     },
     {
       "from": "gpt",
-      "value": "Hola, claro, no hay problema. Tengo un juego completo, te lo paso en un momento. ¿Necesitas también alguna otra herramienta?"
+      "value": "Holaaa sii,tengo un juego completo, te lo paso en un ratito. ¿Necesitas también alguna otra herramienta?"
     },
     {
       "from": "human",
@@ -335,7 +335,7 @@
     },
     {
       "from": "gpt",
-      "value": "Ah, entiendo. Ojalá y sí se pueda reparar. Si necesitas un consejo, mi hermano es bueno para eso, luego le pregunto."
+      "value": "Ah, entiendo. Ojalá y sí se pueda reparar. Si necesitas algo mas, mi hermano es bueno para eso, luego le pregunto."
     },
     {
       "from": "human",
@@ -355,7 +355,7 @@
     },
     {
       "from": "gpt",
-      "value": "Buenas tardes. Claro, dime en qué parte específica te quedaste, para poder explicarte mejor."
+      "value": "Buenas tardes, dime en qué parte específica te quedaste, para poder explicarte mejor."
     },
     {
       "from": "human",
@@ -387,7 +387,7 @@
     },
     {
       "from": "gpt",
-      "value": "Buen día. Sí, exactamente. Para la actividad deportiva del viernes es necesario que vengan con el uniforme de deportes completo y tenis. Les recomiendo también ponerles bloqueador."
+      "value": "Buen día. Sí, exactamente. Para la actividad del viernes es necesario que vengan con el uniforme de deportes completo y tenis. Les recomiendo también ponerles bloqueador."
     },
     {
       "from": "human",
@@ -403,7 +403,7 @@
     },
     {
       "from": "gpt",
-      "value": "De nada. Cualquier otra duda, estamos aquí para aclararla. Que tengan un buen día"
+      "value": "De nada. Cualquier otra cosa estamos aquí para aclararla. Que tengan un buen día"
     }
   ]
 },
@@ -419,7 +419,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, te los paso. Hablamos sobre las causas económicas de la Revolución Mexicana. Los tengo en digital, te los mando por aquí en un rato."
+      "value": "Hablamos sobre las causas económicas de la Revolución Mexicana. Los tengo en digital, te los mando por aquí en un rato."
     },
     {
       "from": "human",
@@ -459,7 +459,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro. Necesitas el número de tu orden y una foto del detalle. Te paso el link para iniciar la solicitud de cambio y te daremos una etiqueta de envío prepagada."
+      "value": "Necesitas el número de tu orden y una foto del detalle. Te paso el link para iniciar la solicitud de cambio y te daremos una etiqueta de envío prepagada."
     },
     {
       "from": "human",
@@ -491,7 +491,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, pasa mucho. Lo importante es que te lo aprobaron y ya puedes tacharlo de tu lista. ¿Sales a celebrar o qué?"
+      "value": "Lo importante es que te lo aprobaron y ya puedes tacharlo de tu lista. ¿Sales a celebrar o qué?"
     },
     {
       "from": "human",
@@ -499,7 +499,7 @@
     },
     {
       "from": "gpt",
-      "value": "Hecho, yo aviso si se me complica algo con el trabajo, pero por ahora estoy libre."
+      "value": "va que va, yo aviso si se me complica algo con el trabajo, pero por ahora estoy libre."
     }
   ]
 },
@@ -531,7 +531,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, para eso estamos. Que tengas buen entrenamiento."
+      "value": "Para eso estamos. Que tengas buen dia :)."
     }
   ]
 },
@@ -547,7 +547,7 @@
     },
     {
       "from": "gpt",
-      "value": "Hola, claro, aquí está. Te lo paso por mensaje. ¿Todo bien por allá? Hace tiempo que no sabíamos de ti."
+      "value": "Te lo paso por mensaje. ¿Todo bien por allá? Hace tiempo que no sabíamos de ti."
     },
     {
       "from": "human",
@@ -579,7 +579,7 @@
     },
     {
       "from": "gpt",
-      "value": "Claro, en un momento te lo tengo listo. Oye, el otro día llegó un café nuevo de Chiapas, muy bueno. La próxima vez te lo recomiendo."
+      "value": "Sin problema, en un momento te lo tengo listo. Oye, el otro día llegó un café nuevo de Chiapas, muy bueno. La próxima vez te lo recomiendo."
     },
     {
       "from": "human",
